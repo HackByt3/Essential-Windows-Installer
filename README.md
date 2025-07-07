@@ -36,3 +36,30 @@ A portable, menu-driven command-line installer for fresh Windows installs. Just 
 
 ## 📂 Folder Structure
 
+Essential-Windows-Installer/
+├── Scripts/
+│ └── installer.bat
+├── SoftwareInstallers/
+│ └── [Organized Installers by Category]
+
+********
+---
+
+## 🔄 Future Plans
+
+- PowerShell version
+- Install logging
+- GUI front-end (Optional)
+- Auto-check if apps are already installed
+
+---
+
+## 💡 Contributions
+
+Pull requests and ideas welcome!
+
+---
+
+## 📜 License
+
+MIT
