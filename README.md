@@ -50,6 +50,22 @@ Essential-Windows-Installer/
 ********
 ---
 
+
+## 🎙️ Why I Built This
+
+Every time I set up a fresh Windows machine, I found myself repeating the same steps — download a browser, install 7-Zip, update drivers, run security tools... and it was even worse without internet.
+
+I wanted something:
+- Fast and portable
+- Fully offline
+- Customizable and clean
+
+So I built this terminal-based USB installer to streamline the whole process. Whether you're rebuilding PCs, helping friends, or doing IT work, this tool saves time and effort.
+
+It's open source, so feel free to fork it, tweak it, or contribute!
+
+---
+
 ## 🔄 Future Plans
 
 - PowerShell version
