@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/HackByt3/Essential-Windows-Installer/blob/main/EssentialInstallerBanner_Final.png?raw=true" alt="Essential Windows Installer Banner" width="100%">
+</p>
+
+
 # 🛠 Essential Windows Installer
 
 A portable, menu-driven command-line installer for fresh Windows installs. Just plug in your USB, run the script, and select what apps you want to install.
